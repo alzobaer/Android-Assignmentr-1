@@ -3,6 +3,11 @@
     <string name="bd">Bangladesh</string>
     <string name="in">India</string>
     <string name="pak">Pakistan</string>
+    <string name="afghan">Afghanistan</string>
+    <string name="bhu">Bhutan</string>
+    <string name="mald">Maldives</string>
+    <string name="sri">Sri Lanka</string>
+    <string name="nep">Nepal</string>
     <string name="bdText">
         Bangladesh\n in brief
         Destination Bangladesh, a Nations Online country profile of the independent nation in southern Asia.
